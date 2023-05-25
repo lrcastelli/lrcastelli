@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 contact me: :
-https://www.linkedin.com/lrcastelli
+https://www.linkedin.com/in/lrcastelli/
 
 <!--
 **lrcastelli/lrcastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
